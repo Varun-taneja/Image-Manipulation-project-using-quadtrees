@@ -2,6 +2,8 @@
 
 ## What are Quadtrees?
 A quadtree is a tree data structure in which each internal node has exactly four children. Quadtrees are the two-dimensional analog of octrees and are most often used to partition a two-dimensional space by recursively subdividing it into four quadrants or regions. The data associated with a leaf cell varies by application, but the leaf cell represents a "unit of interesting spatial information“.
+
+
 ![image](https://user-images.githubusercontent.com/69303551/127506441-b381175f-331c-4222-9afd-1dfc87e59132.png)
 
 
@@ -11,6 +13,8 @@ A quadtree is a tree data structure in which each internal node has exactly four
 3)Horizontal or Vertical flipping of Images 
 4)Overlapping two Images
 5)Changing an image into a single colour ie – Red / Green / Blue / greyscale / black&white
+
+
 ![Screenshot (1802)](https://user-images.githubusercontent.com/69303551/127505960-c1cfdd57-606d-49ea-925d-9082ba232953.png)
 
 [NOTE:The Images used in my program are all in PPM (portable pixmap) format.]
@@ -29,4 +33,5 @@ The average colour of each pixel is calculated using the formula -
 
 
 ## How to use -
+
 ![Screenshot (1804)](https://user-images.githubusercontent.com/69303551/127506334-744d7841-302a-4f80-adc5-94e6937e1d39.png)
