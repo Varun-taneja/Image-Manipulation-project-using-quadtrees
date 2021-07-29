@@ -24,3 +24,7 @@ A PPM file consists of two parts, a header and the image data. The header consis
 2)Till the time a child node doesn’t have pixels with average colour below the entered boundary, it can’t represent a leaf node and therefore it must be split up into four nodes. 3)We repeat this idea unit all the leaf nodes have pixels with average color that corresponds to the entered boundary.
 The average colour of each pixel is calculated using the formula -
 ![image](https://user-images.githubusercontent.com/69303551/127506046-e27f9cd1-9c68-47ac-8802-0dc03acb9bdf.png)
+
+
+## How to use -
+![Screenshot (1804)](https://user-images.githubusercontent.com/69303551/127506334-744d7841-302a-4f80-adc5-94e6937e1d39.png)
